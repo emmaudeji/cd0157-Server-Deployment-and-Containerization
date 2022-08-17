@@ -18,6 +18,9 @@ docs/_build/
 __pycache__
 .env_file
 
+# virtual environment
+venvv
+
 # Coverage reports
 htmlcov/
 .coverage
