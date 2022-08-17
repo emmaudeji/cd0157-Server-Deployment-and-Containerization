@@ -16,6 +16,12 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
+<<<<<<< HEAD
+=======
+
+# virtual environment
+venvv
+>>>>>>> refs/remotes/origin/master
 
 # Coverage reports
 htmlcov/
